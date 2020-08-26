@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">計算器</string>
+    <string name="rate">五星好評</string>
+    <string name="rating_dialog_exit">退出應用</string>
+    <string name="rating_dialog_experience">你的5星將會鼓勵我們做得更好！謝謝！</string>
+    <string name="rating_dialog_never">不再出現</string>
+</resources>

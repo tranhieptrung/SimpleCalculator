@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Add">+</string>
+    <string name="Clear">C</string>
+    <string name="ClearAll">AC</string>
+    <string name="Dialog_title">Privacy Policy Updates</string>
+    <string name="Divide">÷</string>
+    <string name="Eight">8</string>
+    <string name="Equal">=</string>
+    <string name="Five">5</string>
+    <string name="Four">4</string>
+    <string name="FullStop">.</string>
+    <string name="Modulo">Mod</string>
+    <string name="Multiply">x</string>
+    <string name="Nine">9</string>
+    <string name="One">1</string>
+    <string name="Privacy_Policy">Privacy Policy</string>
+    <string name="Seven">7</string>
+    <string name="Six">6</string>
+    <string name="Subtract">-</string>
+    <string name="Three">3</string>
+    <string name="Two">2</string>
+    <string name="Zero">0</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Agree</string>
+    <string name="app_name">Calculator</string>
+    <string name="banner_ad_id">ca-app-pub-1469248204567480/9885573313</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="ignore">No,thank you</string>
+    <string name="privacy">"We've embraced a few changes in our Privacy Policy to make it even easier to understand what data we collect, how it's processed and the controls you have. You can find more details about our updates for new European data protection laws(GDPR) by reading our Privacy Policy. By continuing, you are confirming that you are over the age of 16 or under guidance of the holder of your parental responsibility and agree to our revisions. 
+
+- Our products(service, we,) collects some information from you in order to provide better service and better user experience. Your privacy is a top priority to us, and this Privacy policy explains how we collect, use, and protect your information.​
+
+​1. Information we may collect from you and how we use it:
+- When you use our services, we automatically collect Non-Personal information about the device you use to access our services and your usage of our services.
+- The information we collect may include (where available) the type and model of the device you use, the device's unique device identifier, operating system, language options and mobile network information to allow you to use our services. We use this information to administer our services and for our internal operations including troubleshooting, data analysis, testing, research, statistical and survey purposes, to improve our services.
+
+2. Explaination for permissions:
+ ​​- ​The permissions we use:​ ACCESS_NETWORK_STATE， ACCESS_WIFI_STATE， READ_PHONE_STATE， INTERNET 
+​
+ ​3. Information collected by our Third Party Advertising Partners:
+-We work with third party advertising partners to provide personalized ads for you. Our partners include but are not limited to Google AdMob, Facebook Audience Network, and etc.
+-Our partners may collect hardware and software information such as IP address, device ID and type, advertising IDs (such as Google's AAID, randomly generated numbers that you can reset by going into your device' settings), device language, operating system, time zones, and identifiers associated with cookies or other technologies that may uniquely identify your device.
+
+4. How we share your information
+​We may retain third parties to perform services on our behalf and we may collaborate with third parties with respect to particular products or services. These third parties may be provided with access to the information needed to perform their functions, as long as they agree to keep the information confidential. We reserve the right to disclose your information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our users, the public or our product. 
+
+5. Changes to this Privacy Policy
+Our product may in its sole discretion, change this Privacy Policy from time to time, any and all changes will be reflected here and the date new versions are posted will be stated at the top of this Privacy Policy, so please review it periodically.
+
+6. Contact us
+If you have any suggestions, feedback or requests, please contact us through developer email."</string>
+    <string name="rate">Rate for us</string>
+    <string name="rating_dialog_exit">Exit</string>
+    <string name="rating_dialog_experience">Your 5 stars encourage us to do better! Thanks!</string>
+    <string name="rating_dialog_never">Never Rate</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>
